@@ -8,5 +8,5 @@ My name is Fady, I have written my first line of code at nine years old `print('
 - 📢 I speak fluently English, Arabic, French, Python, C++, Javascript...
 - 👍 I like web developpement, GUI and I use Django, React, Qt...
 - ⚽️ Other hobbies: speedcubing, football.
-- 🌍 Nationalities: Algerian 🇩🇿, Canadian 🇨🇦.
+- 🌍 Nationalities: Algerian 🇩🇿.
 - 📍 Location: Algiers, Algeria, Africa, Earth, Solar System, Milky Way galaxy, Universe.
